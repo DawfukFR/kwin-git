@@ -16,7 +16,7 @@ conflicts=(${pkgname%-git})
 provides=(${pkgname%-git})
 groups=(plasma-git)
 install=${pkgname%-git}.install
-source=("git+https://github.com/KDE/${pkgname%-git}.git")
+source=("git+https://github.com/DawfukFR/${pkgname%-git}.git")
 sha256sums=('SKIP')
 
 pkgver() {
