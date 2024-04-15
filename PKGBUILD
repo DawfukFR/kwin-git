@@ -3,7 +3,7 @@
 # Contributor: Antonio Rojas <arojas@archlinux.org>
 
 pkgname=kwin-git
-pkgver=6.0.80_r26284.g2491fb1b2b
+pkgver=6.0.4_r26321.g75ee1a7095
 pkgrel=1
 pkgdesc='An easy to use, but flexible, composited Window Manager'
 arch=($CARCH)

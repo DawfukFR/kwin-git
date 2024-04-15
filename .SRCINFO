@@ -1,6 +1,6 @@
 pkgbase = kwin-git
 	pkgdesc = An easy to use, but flexible, composited Window Manager
-	pkgver = 6.0.80_r26284.g2491fb1b2b
+	pkgver = 6.0.4_r26321.g75ee1a7095
 	pkgrel = 1
 	url = https://kde.org/plasma-desktop/
 	install = kwin.install
@@ -78,7 +78,7 @@ pkgbase = kwin-git
 	optdepends = maliit-keyboard: virtual keyboard for kwin-wayland
 	provides = kwin
 	conflicts = kwin
-	source = git+https://github.com/KDE/kwin.git
+	source = git+https://github.com/DawfukFR/kwin.git
 	sha256sums = SKIP
 
 pkgname = kwin-git
